@@ -1,0 +1,5 @@
+%salutation%
+Thank you for ordering %product% from
+our website. We will deliver it to
+%address%. The price is %price% with a
+%discount%% discount.

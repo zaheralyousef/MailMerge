@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Orders>
+<Order id="12345">
+<firstname>John</firstname>
+<lastname>Smith</lastname>
+<title>Mr</title>
+<salutation>Dear %title% %lastname%</salutation>
+<product>Chicken Nuggets</product>
+<price>$10.00</price>
+<discount>12</discount>
+<address>128 Oak Drive, Corktown</address>
+</Order>
+<Order id="12346">
+<firstname>Jane</firstname>
+<lastname>Doe</lastname>
+<salutation>Dear %firstname%</salutation>
+<product>Hamburgers</product>
+<price>$5.00</price>
+<discount>5</discount>
+<address>1512 Crescent Ave, Hampton</address>
+</Order>
+</Orders>
